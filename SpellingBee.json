@@ -28,30 +28,38 @@
 		"us"
 	
   ],
-	"clue1" : {
-		"name" : [
+	"clue1.1" : {
+	"name" : [
       "Fred",
       "Frank",
       "Francis"
      ],
-		"word" : [
-      "!dog",
-      "!cat"
-     ]
+	"word" : "!dog",
+	},
+	"clue1.2" : {
+	"name" : [
+      "Fred",
+      "Frank",
+      "Francis"
+     ],
+	"word" : "!cat",
 	},
 	"clue2" : {
 		"word" : "dog",
 		"teacher" : "Ms.Strict"
 	},
-	"clue3" : {
+	"clue3.1" : {
 		"name" : "Frank",
 		"teacher" : [
       			"!Ms.Inkpot",
       			"!!Mr.Ruler"
-     		],
-     		"words" : [
-      			"!up",
-      			"!us"
+     		]	
+	},
+	"clue3.2" : {
+		"name" : "Frank",
+      		"words" : [
+			"!up",
+			"!us"
      		]
 	},
 	"clue4" : {
