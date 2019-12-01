@@ -1,5 +1,5 @@
 {
-	"name" : [
+	"people" : [
 		"Fred",
 		"Frank",
 		"Farley",
@@ -29,7 +29,7 @@
 	
   ],
 	"clue1.1" : {
-	"name" : [
+	"people" : [
       "Fred",
       "Frank",
       "Francis"
@@ -37,7 +37,7 @@
 	"word" : "!dog"
 	},
 	"clue1.2" : {
-	"name" : [
+	"people" : [
       "Fred",
       "Frank",
       "Francis"
@@ -49,14 +49,14 @@
 		"teacher" : "Ms.Strict"
 	},
 	"clue3.1" : {
-		"name" : "Frank",
+		"people" : "Frank",
 		"teacher" : [
       			"!Ms.Inkpot",
       			"!!Mr.Ruler"
      		]	
 	},
 	"clue3.2" : {
-		"name" : "Frank",
+		"people" : "Frank",
       		"words" : [
 			"!up",
 			"!us"
@@ -67,12 +67,12 @@
     		"room" : "505"
 	},
 	"clue5" : {
-		"name" : "Phil",
+		"people" : "Phil",
     		"word" : "cat",
 		"teacher" : "!Mrs.Potts"
 	},
 	"clue6" : {
-		"name" : "Francis",
+		"people" : "Francis",
 		"word" : "!us",
 		"room" : "!505"
 	},
@@ -81,15 +81,15 @@
 		"room" : "312"
 	},
 	"clue8.1" : {
-		"name" : "Farley",
+		"people" : "Farley",
 		"room" : "106"
 	},
   "clue8.2" : {
-		"name" : "Phil",
+		"people" : "Phil",
 		"room" : "212"
 	},
 	"clue9.1" : {
-		"name" : "Phil",
+		"people" : "Phil",
 		"teacher" : "Ms.Inkpot"
 	},
 	"clue9.2" : {
