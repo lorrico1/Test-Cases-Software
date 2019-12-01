@@ -46,21 +46,21 @@
 	"clue3" : {
 		"name" : "Frank",
 		"teacher" : [
-      "!Ms.Inkpot",
-      "!!Mr.Ruler"
-     ],
-     "words" : [
-      "!up",
-      "!us"
-     ],
+      			"!Ms.Inkpot",
+      			"!!Mr.Ruler"
+     		],
+     		"words" : [
+      			"!up",
+      			"!us"
+     		]
 	},
 	"clue4" : {
 		"teacher" : "Mrs.Potts",
-    "room" : "505"
+    		"room" : "505"
 	},
 	"clue5" : {
 		"name" : "Phil",
-    "word" : "cat"
+    		"word" : "cat",
 		"teacher" : "!Mrs.Potts"
 	},
 	"clue6" : {
@@ -74,11 +74,11 @@
 	},
 	"clue8.1" : {
 		"name" : "Farley",
-		"room" : "106",
+		"room" : "106"
 	},
   "clue8.2" : {
 		"name" : "Phil",
-		"room" : "212",
+		"room" : "212"
 	},
 	"clue9.1" : {
 		"name" : "Phil",
