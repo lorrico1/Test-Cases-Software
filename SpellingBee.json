@@ -26,23 +26,22 @@
 		"cat",
 		"dog",
 		"us"
-	
-  ],
+	],
 	"clue1.1" : {
-	"people" : [
-      "Fred",
-      "Frank",
-      "Francis"
-     ],
-	"word" : "!dog"
+		"people" : [
+			"Fred",
+			"Frank",
+			"Francis"
+		],
+		"word" : "!dog"
 	},
 	"clue1.2" : {
-	"people" : [
-      "Fred",
-      "Frank",
-      "Francis"
-     ],
-	"word" : "!cat"
+		"people" : [
+			"Fred",
+			"Frank",
+			"Francis"
+		],
+		"word" : "!cat"
 	},
 	"clue2" : {
 		"word" : "dog",
@@ -51,24 +50,24 @@
 	"clue3.1" : {
 		"people" : "Frank",
 		"teacher" : [
-      			"!Ms.Inkpot",
-      			"!!Mr.Ruler"
-     		]	
+			"!Ms.Inkpot",
+			"!!Mr.Ruler"
+		]
 	},
 	"clue3.2" : {
 		"people" : "Frank",
-      		"word" : [
+		"word" : [
 			"!up",
 			"!us"
-     		]
+		]
 	},
 	"clue4" : {
 		"teacher" : "Mrs.Potts",
-    		"room" : "505"
+		"room" : "505"
 	},
 	"clue5" : {
 		"people" : "Phil",
-    		"word" : "cat",
+		"word" : "cat",
 		"teacher" : "!Mrs.Potts"
 	},
 	"clue6" : {
