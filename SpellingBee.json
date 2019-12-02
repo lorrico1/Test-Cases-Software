@@ -57,7 +57,7 @@
 	},
 	"clue3.2" : {
 		"people" : "Frank",
-      		"words" : [
+      		"word" : [
 			"!up",
 			"!us"
      		]
