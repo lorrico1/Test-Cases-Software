@@ -1,0 +1,90 @@
+{
+	"people" : [
+		"Fred",
+		"Frank",
+		"Farley",
+		"Francis",
+		"Phil"
+	],
+	"room" : [
+		"106",
+		"212",
+		"312",
+		"417",
+		"505"
+	],
+	"teacher" : [
+		"Ms.Inkpot",
+		"Mr.Ruler",
+		"Mrs.Potts",
+		"Ms.Pennsl",
+		"Ms.Strict"
+	],
+	"word" : [
+		"up",
+		"at",
+		"cat",
+		"dog",
+		"us"
+	],
+	"clue1.1" : {
+		"people" : [
+			"Fred",
+			"Frank",
+			"Francis"
+		],
+		"word" : "!dog"
+	},
+	"clue1.2" : {
+		"people" : [
+			"Fred",
+			"Frank",
+			"Francis"
+		],
+		"word" : "!cat"
+	},
+	"clue2" : {
+		"word" : "dog",
+		"teacher" : "Ms.Strict"
+	},
+	"clue3.1" : {
+		"people" : "Frank",
+		"teacher" : [
+			"!Ms.Inkpot",
+			"!!Mr.Ruler"
+		]
+	},
+	"clue3.2" : {
+		"people" : "Frank",
+		"word" : [
+			"!up",
+			"!us"
+		]
+	},
+	"clue4" : {
+		"teacher" : "Mrs.Potts",
+		"room" : "505"
+	},
+	"clue5" : {
+		"people" : "Phil",
+		"word" : "cat",
+		"teacher" : "!Mrs.Potts"
+	},
+	"clue6" : {
+		"people" : "Francis",
+		"word" : "!us",
+		"room" : "!505"
+	},
+	"clue7" : {
+		"word" : "us",
+		"room" : "312"
+	},
+	"clue8.1" : {
+		"people" : "Farley",
+		"room" : "106"
+	},
+  "clue8.2" : {
+		"people" : "Phil",
+		"room" : "212"
+	}
+}
