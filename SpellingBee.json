@@ -79,20 +79,8 @@
 		"word" : "us",
 		"room" : "312"
 	},
-	"clue8.1" : {
-		"people" : "Farley",
-		"room" : "106"
-	},
   "clue8.2" : {
 		"people" : "Phil",
 		"room" : "212"
-	},
-	"clue9.1" : {
-		"people" : "Phil",
-		"teacher" : "Ms.Inkpot"
-	},
-	"clue9.2" : {
-		"teacher" : "Ms.Pennsl",
-		"room" : "417"
 	}
 }
